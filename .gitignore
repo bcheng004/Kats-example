@@ -1,3 +1,4 @@
 .vscode
 notebooks/config.ini
 logs.log
+*.pkl
